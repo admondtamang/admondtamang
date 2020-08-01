@@ -7,8 +7,6 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=admondtamang" alt="admond" />
-
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
