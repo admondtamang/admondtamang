@@ -19,3 +19,11 @@
 - 👨‍💻 All of my projects are available  [here](https://github.com/admondtamang?tab=repositories)
 
 - 💬 Ask me about **anything**
+
+- 📫 How to reach me **tomacolyada@gmail.com**
+
+
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=admondtamang&show_icons=true" alt="admond" />
+ </p>
