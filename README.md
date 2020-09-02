@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **tomacolyada@gmail.com**
+- 📫 How to reach me **admondtamang@gmail.com**
 
-
+- My portforlio ** https://admond-tamang.netlify.app/ **
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=admondtamang&show_icons=true" alt="admond" />
