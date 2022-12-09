@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **admondtamang@gmail.com**
 
-- My portforlio ** https://631240ee6b05c40009fe92e5--admondtamang.netlify.app/ **
+- My portforlio ** https://admond-tamang.vercel.app/ **
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=admondtamang&show_icons=true" alt="admond" />
