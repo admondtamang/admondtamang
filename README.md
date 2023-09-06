@@ -25,3 +25,57 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=admondtamang&show_icons=true" alt="admond" />
  </p>
+
+- More info
+```
+const admondProfile = {
+    fullName: "Admond Tamang",
+    code: [Typescript, Javascript, Python, Dart, Shell, Pascal],
+    framework: [ NestJs, Nextjs, Express, React],
+    askMeAbout: [
+        "ci/cd", "automation", 
+        "test", "nestjs", "optimize code",
+        "web security", "concurrency", 
+        "cloud server", "backend development",
+        "api", "etc",
+    ],
+    technologies: {
+        backEnd: {
+            ts: [
+                "nestjs", "jwt"
+            ],
+            db: [
+                "mongodb",
+            ]
+        },
+        devOps: {
+            automation: [
+                "docker"
+            ],
+            server: [
+                "nginx", "certbot",
+                "letsencrypt", "ubuntu"
+            ],
+        },
+        mobile: {
+            'react-native': [
+                "widget"
+            ],
+            state management: [
+                "redux", "zustand", "context-api"
+            ]
+        },
+        integration: {
+            email: [
+                "sendgrid", 
+            ],
+            storage:[
+                "S3 bucket",
+            ],
+            pushNotification: [
+                "firebase"
+            ]
+        }
+    }
+};
+```
