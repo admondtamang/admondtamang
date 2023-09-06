@@ -30,7 +30,7 @@
 ```
 const admondProfile = {
     fullName: "Admond Tamang",
-    code: [Typescript, Javascript, Python, Dart, Shell, Pascal],
+    code: [Typescript, Javascript, Python (learning)],
     framework: [ NestJs, Nextjs, Express, React],
     askMeAbout: [
         "ci/cd", "automation", 
@@ -42,12 +42,13 @@ const admondProfile = {
     technologies: {
         backEnd: {
             ts: [
-                "nestjs", "jwt"
+                "nestjs", "jwt", "express"
             ],
             db: [
-                "mongodb",
+                "mongodb", "sql"
             ]
         },
+        aws: ["s3", "ec2", "lambda", "cloudfront"],
         devOps: {
             automation: [
                 "docker"
