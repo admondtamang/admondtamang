@@ -59,9 +59,7 @@ const admondProfile = {
             ],
         },
         mobile: {
-            'react-native': [
-                "widget"
-            ],
+            'react-native': [],
             state management: [
                 "redux", "zustand", "context-api"
             ]
