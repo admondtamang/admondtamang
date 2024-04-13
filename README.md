@@ -40,34 +40,34 @@ const admondProfile = {
     technologies: {
         backEnd: {
             ts: [
-                "nestjs", "jwt", "express"
+                "nestjs", "express"
             ],
             db: [
-                "mongodb", "sql", "postgres"
+                "mongodb", "Mysql", "postgres", "MsSql"
             ]
         },
         aws: ["s3", "ec2", "ses", "cloudfront"],
         devOps: {
-            automation: [
-                "docker"
+            containerization: [
+                "docker, docker-compose, k8s (learning)"
             ],
             server: [
-                "nginx", "certbot",
+               "traefik", "nginx", "certbot",
                 "letsencrypt", "ubuntu"
             ],
         },
         mobile: {
             'react-native': [],
             state management: [
-                "redux", "zustand", "context-api"
+                 "zustand", "context-api", "redux"
             ]
         },
         integration: {
             email: [
-                "sendgrid", 
+                "sendgrid", "aws ses"
             ],
             storage:[
-                "S3 bucket",
+                "S3 bucket", "ftp server"
             ],
             pushNotification: [
                 "firebase"
