@@ -33,11 +33,9 @@ const admondProfile = {
     code: [Typescript, Golang, Javascript],
     framework: [ NestJs, Nextjs, Express, React],
     askMeAbout: [
-        "ci/cd", "automation", 
-        "test", "nestjs", "optimize code",
-        "web security", "concurrency", 
-        "cloud server", "backend development",
-        "api", "etc",
+        "ci/cd", "automation", "nestjs", "optimize code", "web security", "new technology"
+        "web security", "concurrency", "cloud server", "backend development",
+        "api", "and more",
     ],
     technologies: {
         backEnd: {
@@ -45,10 +43,10 @@ const admondProfile = {
                 "nestjs", "jwt", "express"
             ],
             db: [
-                "mongodb", "sql"
+                "mongodb", "sql", "postgres"
             ]
         },
-        aws: ["s3", "ec2", "lambda", "cloudfront"],
+        aws: ["s3", "ec2", "ses", "cloudfront"],
         devOps: {
             automation: [
                 "docker"
