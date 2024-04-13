@@ -30,7 +30,7 @@
 ```
 const admondProfile = {
     fullName: "Admond Tamang",
-    code: [Typescript, Javascript, Python (learning)],
+    code: [Typescript, Golang, Javascript],
     framework: [ NestJs, Nextjs, Express, React],
     askMeAbout: [
         "ci/cd", "automation", 
