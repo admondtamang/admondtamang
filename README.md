@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **admondtamang@gmail.com**
 
-- My portforlio ** https://admond-tamang.vercel.app/ **
+- My portfolio ** https://admondtamang.com.np/ **
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=admondtamang&show_icons=true" alt="admond" />
