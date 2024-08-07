@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Admond Tamang </h1>
 <h3 align="center"> I'm a full stack developer with a passion for learning new technologies.  </h3>
+<h3 align="center"> Useful repo:  ![Frontend tips and tricks](https://github.com/admondtamang/Guiding-the-Frontend-Journey) </h3>
+
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
