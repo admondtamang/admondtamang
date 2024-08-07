@@ -30,48 +30,30 @@
 ```
 const admondProfile = {
     fullName: "Admond Tamang",
-    code: [Typescript, Golang, Javascript],
-    framework: [ NestJs, Nextjs, Express, React],
-    askMeAbout: [
-        "ci/cd", "automation", "nestjs", "optimize code", "web security", "new technology"
-        "web security", "concurrency", "cloud server", "backend development",
-        "api", "and more",
+    languages: ["Typescript", "Golang", "Javascript"],
+    frameworks: ["NestJs", "Nextjs", "Express", "React", "NestJs"],
+    workingOn: [
+        "CI/CD", "automation", "code optimization", "web security", "cloud servers", "backend development", "APIs", "and more"
     ],
     technologies: {
         backEnd: {
-            ts: [
-                "nestjs", "express"
-            ],
-            db: [
-                "mongodb", "Mysql", "postgres", "MsSql"
-            ]
+            languages: ["NestJs", "Express", "golang"],
+            databases: ["PostgreSQL", "MS SQL", "MongoDB", "MySQL"]
         },
-        aws: ["s3", "ec2", "ses", "cloudfront"],
+        aws: ["S3", "EC2", "SES", "CloudFront", "RDS"],
         devOps: {
-            containerization: [
-                "docker, docker-compose, k8s (learning)"
-            ],
-            server: [
-               "traefik", "nginx", "certbot",
-                "letsencrypt", "ubuntu"
-            ],
+            containerization: ["Docker", "Docker Compose", "Kubernetes (learning)"],
+            server: ["Traefik", "Nginx", "Certbot", "Let's Encrypt", "Ubuntu"]
         },
         mobile: {
-            'react-native': [],
-            state management: [
-                 "zustand", "context-api", "redux"
-            ]
+            frameworks: ["React Native"],
+            stateManagement: ["Zustand", "Context API", "Redux"]
         },
         integration: {
-            email: [
-                "sendgrid", "aws ses"
-            ],
-            storage:[
-                "S3 bucket", "ftp server"
-            ],
-            pushNotification: [
-                "firebase"
-            ]
+            email: ["SendGrid", "AWS SES"],
+            storage: ["S3 Bucket", "FTP Server"],
+            pushNotification: ["Firebase"]
+            payment: ["stripe"]
         }
     }
 };
