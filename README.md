@@ -32,7 +32,7 @@
 ```
 const admondProfile = {
     fullName: "Admond Tamang",
-    languages: ["Typescript", "Golang", "Javascript"],
+    languages: ["Golang", "Javascript with Typescript"],
     frameworks: ["NestJs", "Nextjs", "Express", "React", "NestJs"],
     workingOn: [
         "CI/CD", "automation", "code optimization", "web security", "cloud servers", "backend development", "APIs", "and more"
