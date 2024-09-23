@@ -53,6 +53,7 @@ const admondProfile = {
         },
         integration: {
             email: ["SendGrid", "AWS SES"],
+            phoneSMS: ["twilio"],
             storage: ["S3 Bucket", "FTP Server"],
             pushNotification: ["Firebase"]
             payment: ["stripe"]
